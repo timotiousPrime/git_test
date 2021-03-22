@@ -1,1 +1,1 @@
-This is Tim's first Git project!
+This is timotiousPrime's first Git project!
